@@ -5,3 +5,5 @@
 function SomeFunction () {
   console.log("Second console message")
 }
+
+creating an error = "error"
