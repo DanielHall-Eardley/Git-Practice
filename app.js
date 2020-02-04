@@ -6,4 +6,7 @@ function SomeFunction () {
   console.log("Second console message")
 }
 
-//this is an experimental feature, or is it?
+//this is an experimental feature it will cause a conflict
+const rndNewFn = () => {
+  console.log("do something")
+}
