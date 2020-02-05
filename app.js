@@ -7,6 +7,6 @@ function SomeFunction () {
 }
 
 //this is an experimental feature it will cause a conflict
-const rndNewFn = () => {
+const bestNewFnc = () => {
   console.log("do something")
 }
